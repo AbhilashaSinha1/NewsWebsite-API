@@ -22,3 +22,6 @@ The summaries and cover images are fetched from the [News API]("https://newsapi.
 **Usage Instructions:**
 1. Clone the repository.
 2. Open index.html in your web browser.
+
+**Demo Link:**
+[TrendBytes](https://abhilashasinha1.github.io/NewsWebsite-API/)
