@@ -4,7 +4,7 @@
 The project aims to create a news website that fetches data from an API and displays it in a user-friendly manner. It provides all the latest news, along with cover images.
 
 **Data Source:**
-The summaries and cover images are fetched from the [News API]("https://newsapi.org/v2/everything), which provides latest news.
+The summaries and cover images are fetched from the [News API](https://rapidapi.com/connexun-srl-connexun-srl-default/api/news67/), which provides latest news.
 
 **Key Features:**
 - Browse through the news cards.
@@ -17,7 +17,7 @@ The summaries and cover images are fetched from the [News API]("https://newsapi.
 - HTML
 - CSS
 - JavaScript
-- [News API](https://newsapi.org/v2/everything)
+- [News API](https://rapidapi.com/connexun-srl-connexun-srl-default/api/news67/)
 
 **Usage Instructions:**
 1. Clone the repository.
